@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">question_one</string>
+    <string name="template_price">$ %1$.2f</string>
+    <string name="sale">Sale</string>
+</resources>
